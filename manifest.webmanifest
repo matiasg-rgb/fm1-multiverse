@@ -1,0 +1,18 @@
+{
+  "name": "FM-1 Lab \u00b7 Open Instruments",
+  "short_name": "FM-1 Lab",
+  "description": "Offline-capable browser audiovisual instruments",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8faf8",
+  "theme_color": "#15303b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
