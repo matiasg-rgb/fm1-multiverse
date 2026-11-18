@@ -1,0 +1,26 @@
+project,product,file,bytes,sha256,crc_damage,device_test_evidence,release_available
+Ack Ack / Invaders,FM-1_941,ack-ack.fwsc,612223,1533c320d449016bbc22759b4931c1c53928dfe11337809b6513db8c493a1148,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+BALLz,FM-1_959,ballz.fwsc,612223,8525101b3c868dcccbe9102556206498e475d149412c418ceffa9937ab7ed581,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Biscuit,FM-1_964,biscuit.fwsc,612223,1bb94e4454252af34f2a5760b2cf56c564adeb04ddbe45c9c21eb6a3076f3073,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Blot,FM-1_961,blot.fwsc,612219,f67d020dcaa2f9721f2eef98c4d86dd108a52565443afa9d22a355697bc04912,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+BoleTE,FM-1_949,bolete.fwsc,612223,63644140620b9c8b51066e9d6488e325cd755520214150d088500f9499fd3d8c,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",False
+C0d3-Ah,FM-1_948,c0d3-ah.fwsc,612223,aab1a32fdd0db1242b7219eb01d7c6cb3bb2824a5339265205b09c46b92202a5,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",False
+Chilly,FM-1_963,chilly.fwsc,612223,c40ae9bb959e320fc92b6f24af14745cd0da9f7069a5c8d7cfab90ff78e73d05,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Cielo,FM-1_955,cielo.fwsc,612223,3953dbd5904e3c5dd3ce9b10011449eefd043b1c2112e0370d9ac835e21a3c71,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Crips Maz,FM-1_944,crips-maz.fwsc,612223,558b29493e9e94f74815b7f078db1f5fa89a6159a5f2718364515225f634fc96,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",False
+Crush,FM-1_958,crush.fwsc,612223,a415e38426ae2f87b73c2a3d1a5d9445d5147d4ceb49ad87f5fcb2fe948cd72b,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Daza E,FM-1_954,daza-e.fwsc,612223,b805a908466048bcbd918797fd2915f4f07578a2ccf41dab8a3c6d939424de40,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Fr0g,FM-1_967,fr0g.fwsc,612219,e16c4caddf87f94d83a35fc4a5f6ffc0cf2801c46a483fe7641c9793e94e762c,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+G0 Han,FM-1_965,g0-han.fwsc,612223,4d4f57f734d2ef58ccc2bc37fc3667bf45a3952b3fd4fe112b79b387073c8552,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+K-Tea,FM-1_934,k-tea.fwsc,612225,7c64a435af79dfbede8adf344c224e79ba5cb5bc8c43c4f9c351a5175edfc45a,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Maestr0,FM-1_966,maestr0.fwsc,612223,3b101c7137549c356c897c2d3d6ccb1b8d01cdbccf93dad52b804e4f8b38400d,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Manhattan,FM-1_942,manhattan.fwsc,612227,17bab73e603aaf028a665bae949e054d7c1d3ee7aa3eae96d0051733ddb5bd8c,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Maradonna,FM-1_935,maradonna.fwsc,612227,02ebfd56adb642050c961cb00d6c779fa9e538725efd541519d7a1843157c746,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Matu,FM-1_956,matu.fwsc,612219,562f7a9ca884201ed2059b367821c8c3063429592a1fc3d1ccda4a3c1f5dad9a,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Melt with Miami,FM-1_947,melt-with-miami.fwsc,612227,fccf65ebebe1945decb931092502657c30321dcd0b06590228d3817669abaf63,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Mo Art Feud,FM-1_945,mo-art-feud.fwsc,612227,7d0761b46c5c906d574a501bf38ad6813515f04e3305285972b27f1c96050741,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",False
+Nero,FM-1_957,nero.fwsc,612219,e4261f008b2199bfd0ade30ba0004ad0770c2813edb4eda6ba671be9bbbf45e0,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Paft Dunk,FM-1_943,paft-dunk.fwsc,612223,f641444342f4345db4eff7e2dc0120f8b3de819b871e57f733ca77c940b75549,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",False
+Pr0 Blem,FM-1_946,pr0-blem.fwsc,612223,b86755719913e192b68ac80b22c05a60bc789b895d093db766156c2c214fc916,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+VE Drome,FM-1_960,ve-drome.fwsc,612223,1766bdd032435f9cf66a4c779891497aba42d5ea37ab7df214006d5aba0fe51b,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
+Wa-Tur,FM-1_951,wa-tur.fwsc,612223,d444b547c00e4d5cafc75719527b9a740164fb967ab0eac54c3a3a1347815407,,"Owner reports all latest builds passed on physical FM-1, 2026-11-18; not retested by this session.",True
